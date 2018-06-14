@@ -27,7 +27,12 @@
     "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/wooden-logo-167-x-82-128x63.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
