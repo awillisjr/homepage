@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 34,
     "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -60,8 +60,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/DGIXT7ce3vQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/DGIXT7ce3vQ",
+              "url": "https://www.youtube.com/embed/4hgaj6aAXko?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/4hgaj6aAXko",
               "width": 1280,
               "height": 720
             },
@@ -71,7 +71,7 @@
           },
           "title": "STARGAZE VACATIONS",
           "text": "Welcome. We've started a movement and it's growing fast.\n<br>Join the StarGaze Vacation community and experience a new way to vacation.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READY TO BOOK</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEARCH VACATIONS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.stargazevacations.com/cruises.html\" data-toolbar=\"-mbrBtnMove\">Cruise<br>Vacation<br></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.stargazevacations.com/499andupai.html\" data-toolbar=\"-mbrBtnMove\">Resort<br>Vacation<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.stargazevacations.com/destinations.html\" data-toolbar=\"-mbrBtnMove\">Destinations<br>Search<br></a> ",
           "_tags": [
             "Theme"
           ],
@@ -87,6 +87,14 @@
           }
         }
       ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Vacations",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
